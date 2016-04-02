@@ -1,0 +1,200 @@
+record-65._12
+Codeine / Iodine
+(['codeine', 0, 0, 'treatment'], ['iodine', 2, 2, 'treatment'])
+[0]
+
+
+record-65_19
+82 F with h/o COPD , CAD , pafib and SSS s/p pacer on 05-08 for symptomatic pauses is transferred for large pericardial effusion ? needing drainage and CHF .
+(['pafib', 8, 8, 'problem'], ['sss', 10, 10, 'problem'])
+['pafib', 'PIP', 'sss']
+
+
+record-65._19
+82 F with h/o COPD , CAD , pafib and SSS s/p pacer on 05-08 for symptomatic pauses is transferred for large pericardial effusion ? needing drainage and CHF .
+(['pafib', 8, 8, 'problem'], ['cad', 6, 6, 'problem'])
+[0]
+
+
+record-65._19
+82 F with h/o COPD , CAD , pafib and SSS s/p pacer on 05-08 for symptomatic pauses is transferred for large pericardial effusion ? needing drainage and CHF .
+(['pafib', 8, 8, 'problem'], ['copd', 4, 4, 'problem'])
+[0]
+
+
+record-65._19
+82 F with h/o COPD , CAD , pafib and SSS s/p pacer on 05-08 for symptomatic pauses is transferred for large pericardial effusion ? needing drainage and CHF .
+(['pafib', 8, 8, 'problem'], ['symptomatic pauses', 16, 17, 'problem'])
+[0]
+
+
+record-65._19
+82 F with h/o COPD , CAD , pafib and SSS s/p pacer on 05-08 for symptomatic pauses is transferred for large pericardial effusion ? needing drainage and CHF .
+(['pafib', 8, 8, 'problem'], ['pacer', 12, 12, 'treatment'])
+[0]
+
+
+record-65._19
+82 F with h/o COPD , CAD , pafib and SSS s/p pacer on 05-08 for symptomatic pauses is transferred for large pericardial effusion ? needing drainage and CHF .
+(['pafib', 8, 8, 'problem'], ['large pericardial effusion', 21, 23, 'problem'])
+[0]
+
+
+record-65._19
+82 F with h/o COPD , CAD , pafib and SSS s/p pacer on 05-08 for symptomatic pauses is transferred for large pericardial effusion ? needing drainage and CHF .
+(['pafib', 8, 8, 'problem'], ['drainage', 26, 26, 'treatment'])
+[0]
+
+
+record-65._19
+82 F with h/o COPD , CAD , pafib and SSS s/p pacer on 05-08 for symptomatic pauses is transferred for large pericardial effusion ? needing drainage and CHF .
+(['pafib', 8, 8, 'problem'], ['chf', 28, 28, 'problem'])
+[0]
+
+
+record-65._19
+82 F with h/o COPD , CAD , pafib and SSS s/p pacer on 05-08 for symptomatic pauses is transferred for large pericardial effusion ? needing drainage and CHF .
+(['sss', 10, 10, 'problem'], ['cad', 6, 6, 'problem'])
+[0]
+
+
+record-65._19
+82 F with h/o COPD , CAD , pafib and SSS s/p pacer on 05-08 for symptomatic pauses is transferred for large pericardial effusion ? needing drainage and CHF .
+(['sss', 10, 10, 'problem'], ['copd', 4, 4, 'problem'])
+[0]
+
+
+record-65._19
+82 F with h/o COPD , CAD , pafib and SSS s/p pacer on 05-08 for symptomatic pauses is transferred for large pericardial effusion ? needing drainage and CHF .
+(['sss', 10, 10, 'problem'], ['symptomatic pauses', 16, 17, 'problem'])
+[0]
+
+
+record-65._19
+82 F with h/o COPD , CAD , pafib and SSS s/p pacer on 05-08 for symptomatic pauses is transferred for large pericardial effusion ? needing drainage and CHF .
+(['sss', 10, 10, 'problem'], ['pacer', 12, 12, 'treatment'])
+[0]
+
+
+record-65._19
+82 F with h/o COPD , CAD , pafib and SSS s/p pacer on 05-08 for symptomatic pauses is transferred for large pericardial effusion ? needing drainage and CHF .
+(['sss', 10, 10, 'problem'], ['large pericardial effusion', 21, 23, 'problem'])
+[0]
+
+
+record-65._19
+82 F with h/o COPD , CAD , pafib and SSS s/p pacer on 05-08 for symptomatic pauses is transferred for large pericardial effusion ? needing drainage and CHF .
+(['sss', 10, 10, 'problem'], ['drainage', 26, 26, 'treatment'])
+[0]
+
+
+record-65._19
+82 F with h/o COPD , CAD , pafib and SSS s/p pacer on 05-08 for symptomatic pauses is transferred for large pericardial effusion ? needing drainage and CHF .
+(['sss', 10, 10, 'problem'], ['chf', 28, 28, 'problem'])
+[0]
+
+
+record-65._19
+82 F with h/o COPD , CAD , pafib and SSS s/p pacer on 05-08 for symptomatic pauses is transferred for large pericardial effusion ? needing drainage and CHF .
+(['cad', 6, 6, 'problem'], ['copd', 4, 4, 'problem'])
+[0]
+
+
+record-65._19
+82 F with h/o COPD , CAD , pafib and SSS s/p pacer on 05-08 for symptomatic pauses is transferred for large pericardial effusion ? needing drainage and CHF .
+(['cad', 6, 6, 'problem'], ['symptomatic pauses', 16, 17, 'problem'])
+[0]
+
+
+record-65._19
+82 F with h/o COPD , CAD , pafib and SSS s/p pacer on 05-08 for symptomatic pauses is transferred for large pericardial effusion ? needing drainage and CHF .
+(['cad', 6, 6, 'problem'], ['pacer', 12, 12, 'treatment'])
+[0]
+
+
+record-65._19
+82 F with h/o COPD , CAD , pafib and SSS s/p pacer on 05-08 for symptomatic pauses is transferred for large pericardial effusion ? needing drainage and CHF .
+(['cad', 6, 6, 'problem'], ['large pericardial effusion', 21, 23, 'problem'])
+[0]
+
+
+record-65._19
+82 F with h/o COPD , CAD , pafib and SSS s/p pacer on 05-08 for symptomatic pauses is transferred for large pericardial effusion ? needing drainage and CHF .
+(['cad', 6, 6, 'problem'], ['drainage', 26, 26, 'treatment'])
+[0]
+
+
+record-65._19
+82 F with h/o COPD , CAD , pafib and SSS s/p pacer on 05-08 for symptomatic pauses is transferred for large pericardial effusion ? needing drainage and CHF .
+(['cad', 6, 6, 'problem'], ['chf', 28, 28, 'problem'])
+[0]
+
+
+record-65._19
+82 F with h/o COPD , CAD , pafib and SSS s/p pacer on 05-08 for symptomatic pauses is transferred for large pericardial effusion ? needing drainage and CHF .
+(['copd', 4, 4, 'problem'], ['symptomatic pauses', 16, 17, 'problem'])
+[0]
+
+
+record-65._19
+82 F with h/o COPD , CAD , pafib and SSS s/p pacer on 05-08 for symptomatic pauses is transferred for large pericardial effusion ? needing drainage and CHF .
+(['copd', 4, 4, 'problem'], ['pacer', 12, 12, 'treatment'])
+[0]
+
+
+record-65._19
+82 F with h/o COPD , CAD , pafib and SSS s/p pacer on 05-08 for symptomatic pauses is transferred for large pericardial effusion ? needing drainage and CHF .
+(['copd', 4, 4, 'problem'], ['large pericardial effusion', 21, 23, 'problem'])
+[0]
+
+
+record-65._19
+82 F with h/o COPD , CAD , pafib and SSS s/p pacer on 05-08 for symptomatic pauses is transferred for large pericardial effusion ? needing drainage and CHF .
+(['copd', 4, 4, 'problem'], ['drainage', 26, 26, 'treatment'])
+[0]
+
+
+record-65._19
+82 F with h/o COPD , CAD , pafib and SSS s/p pacer on 05-08 for symptomatic pauses is transferred for large pericardial effusion ? needing drainage and CHF .
+(['copd', 4, 4, 'problem'], ['chf', 28, 28, 'problem'])
+[0]
+
+
+record-65_19
+82 F with h/o COPD , CAD , pafib and SSS s/p pacer on 05-08 for symptomatic pauses is transferred for large pericardial effusion ? needing drainage and CHF .
+(['symptomatic pauses', 16, 17, 'problem'], ['pacer', 12, 12, 'treatment'])
+['pacer', 'TrAP', 'symptomatic pauses']
+
+
+record-65._19
+82 F with h/o COPD , CAD , pafib and SSS s/p pacer on 05-08 for symptomatic pauses is transferred for large pericardial effusion ? needing drainage and CHF .
+(['symptomatic pauses', 16, 17, 'problem'], ['large pericardial effusion', 21, 23, 'problem'])
+[0]
+
+
+record-65._19
+82 F with h/o COPD , CAD , pafib and SSS s/p pacer on 05-08 for symptomatic pauses is transferred for large pericardial effusion ? needing drainage and CHF .
+(['symptomatic pauses', 16, 17, 'problem'], ['drainage', 26, 26, 'treatment'])
+[0]
+
+
+record-65._19
+82 F with h/o COPD , CAD , pafib and SSS s/p pacer on 05-08 for symptomatic pauses is transferred for large pericardial effusion ? needing drainage and CHF .
+(['symptomatic pauses', 16, 17, 'problem'], ['chf', 28, 28, 'problem'])
+[0]
+
+
+record-65._19
+82 F with h/o COPD , CAD , pafib and SSS s/p pacer on 05-08 for symptomatic pauses is transferred for large pericardial effusion ? needing drainage and CHF .
+(['pacer', 12, 12, 'treatment'], ['large pericardial effusion', 21, 23, 'problem'])
+[0]
+
+
+record-65._19
+82 F with h/o COPD , CAD , pafib and SSS s/p pacer on 05-08 for symptomatic pauses is transferred for large pericardial effusion ? needing drainage and CHF .
+(['pacer', 12, 12, 'treatment'], ['drainage', 26, 26, 'treatment'])
+[0]
+
+
+record-65._19
+82 F with h/o COPD , CAD , pafib and SSS s/p pacer on 05-08 for symptomatic pauses is transferred for large pericardial effusion ? needing drainage and CHF .

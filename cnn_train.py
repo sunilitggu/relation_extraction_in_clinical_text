@@ -40,7 +40,8 @@ class CNN_Train(object):
 		self.train_op = self.optimizer.apply_gradients(self.grads_and_vars, global_step=self.global_step)
 
 		self.sess.run(tf.initialize_all_variables())
-
+		self.fp = open("reslt",'w')
+		
 	def train_step(self, W_batch, d1_batch, d2_batch, P_batch, T_batch, y_batch):
     		feed_dict = {
 				self.cnn.x :W_batch,
@@ -91,8 +92,10 @@ class CNN_Train(object):
     		print "f1_score", sk.metrics.f1_score(y_true, y_pred, average=None )
 #    		print "confusion_matrix"
 #   		print sk.metrics.confusion_matrix(y_true, y_pred)
+		self.fp.write(sk.metrics.f1_score(y_true, y_pred, average=None)
+		self.fp.write('\n')
+		
 		"""
-		fp = open("reslt",'w')
 		for t,p in zip(y_true, y_pred):
 			fp.write(str(t) +" "+str(p))
 			fp.write('\n')

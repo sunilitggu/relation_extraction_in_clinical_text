@@ -1,5 +1,6 @@
 # relation_extraction_in_clinical_text
-This code is for relation extraction among clinical entities in text though convolution neural neteork. 
+
+This is a code for "Relation extraction from clinical texts using domain invariant convolutional neural network". BioNLP at ACL-2016, Berlin, Germany, Aug-2016
 
 Dependencies: Python 2.7, Tensorflow, Numpy, nltk, sklearn
 

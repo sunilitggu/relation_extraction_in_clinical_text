@@ -66,7 +66,7 @@ class CNN_Train(object):
 				self.cnn.input_y:y_batch,
 				self.cnn.dropout_keep_prob:1.0
 	    		}
-   		_, step, loss, accuracy, predictions = self.sess.run([self.train_op, self.global_step, self.cnn.loss, self.cnn.accuracy, self.cnn.predictions], feed_dict)
+   		_, step, loss, accuracy, predictions = self.sess.run([self.global_step, self.cnn.loss, self.cnn.accuracy, self.cnn.predictions], feed_dict)
     		print "Accuracy in test data", accuracy
 		return accuracy, predictions
 

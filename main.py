@@ -11,7 +11,7 @@ tagger = GeniaTagger('/home/sunilnew/python_packages/geniatagger-3.0.2/geniatagg
 from nltk.tokenize import WordPunctTokenizer
 tokenizer = WordPunctTokenizer()
 import pickle
-from cnn_train import *
+from cnn_test import *
 
 
 def preProcess(sent):

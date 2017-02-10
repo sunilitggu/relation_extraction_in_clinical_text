@@ -86,9 +86,6 @@ def dataRead(fname):
   	entity2_list   = []		#2-d array [[e1,e1_s,e1_e,e1_t] [e1,e1_s,e1_e,e1_t]...]
   	for sample in samples:
 		name, sent, entities, relation = sample.strip().split('\n')
-	
-		if len(sent.split()) > 100:
-			continue
 
 		ma = re.match(r"\[['\"](.*)['\"], '(.*)', ['\"](.*)['\"]\]", relation.strip())
 		if(ma):

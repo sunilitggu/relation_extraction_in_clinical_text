@@ -212,7 +212,7 @@ def readWordEmb(word_dict, fname, embSize=50):
 	return wordemb
 
 
-ftrain = "../i2b2_data/combine.train"
+ftrain = "data/combine.train"
 #ftrain = "../i2b2_data/temp.train"
 #ftrain = '../i2b2_data/beth.train'
 #ftrain = '../i2b2_data/test.train'

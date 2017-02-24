@@ -11,7 +11,7 @@ tagger = GeniaTagger('/home/sunilnew/python_packages/geniatagger-3.0.2/geniatagg
 from nltk.tokenize import WordPunctTokenizer
 tokenizer = WordPunctTokenizer()
 import pickle
-from cnn_test import *
+from cnn_train import *
 
 
 def preProcess(sent):
@@ -86,6 +86,9 @@ def dataRead(fname):
   	entity2_list   = []		#2-d array [[e1,e1_s,e1_e,e1_t] [e1,e1_s,e1_e,e1_t]...]
   	for sample in samples:
 		name, sent, entities, relation = sample.strip().split('\n')
+	
+		if len(sent.split()) > 100:
+			continue
 
 		ma = re.match(r"\[['\"](.*)['\"], '(.*)', ['\"](.*)['\"]\]", relation.strip())
 		if(ma):
@@ -209,7 +212,7 @@ def readWordEmb(word_dict, fname, embSize=50):
 	return wordemb
 
 
-ftrain = "data/combine.train"
+ftrain = "../i2b2_data/combine.train"
 #ftrain = "../i2b2_data/temp.train"
 #ftrain = '../i2b2_data/beth.train'
 #ftrain = '../i2b2_data/test.train'

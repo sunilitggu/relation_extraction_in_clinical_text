@@ -1,6 +1,6 @@
 # relation_extraction_in_clinical_text
 
-This is a code for the paper entitled "Relation extraction from clinical texts using domain invariant convolutional neural network" which have published in BioNLP at ACL-2016, Berlin, Germany
+This code is for the paper entitled "Relation extraction from clinical texts using domain invariant convolutional neural network" which have been published in BioNLP at ACL-2016, Berlin, Germany
 
 Dependencies: Python 2.7, Tensorflow, Numpy, nltk, sklearn, geniatagger
 
